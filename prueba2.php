@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         // put your code here
         print 'Hola mundo';
+        $suma=2+2;
+        print $suma;
         ?>
     </body>
 </html>
